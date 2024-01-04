@@ -5,7 +5,7 @@
 
 - 🌱 I'm an enthusiastic  Backend and AI developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code
 
-- 🌱 I’m currently learning **Spring Boot Framework,Google Cloud APIs,Deep Learning**
+- 🌱 I’m currently learning **Spring Boot Framework,Flask,MYSQL,SQLite,Google Cloud APIs,Deep Learning**
 
 - 💬 Ask me about **Machine Learning Algorithms,Java,Python,C++**
 
