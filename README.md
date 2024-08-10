@@ -36,7 +36,7 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207"/>
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="<img align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207"/>
+<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="<img align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
