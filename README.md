@@ -1,13 +1,13 @@
 ![MasterHead](https://d2f8l4t0zpiyim.cloudfront.net/000_clients/664516/page/664516cjJgh69K.gif)
 # 🏄‍♂️ Shubham Das
 
-**`Innovator (AI & Data Science Entusiast|Passionate Java & Python Backend Developer)`**
+**`Innovator (AI & Data Science Entusiast|MERN Stack developer | Passionate Java & Python Backend Developer)`**
 
 - 🌱 I'm an enthusiastic  Backend and AI developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code
 
-- 🌱 I’m currently learning **Spring Boot Framework,Flask,MYSQL,SQLite,Google Cloud APIs,Deep Learning**
+- 🌱 I’m currently learning **Cloud ,Deep Learning**
 
-- 💬 Ask me about **Machine Learning Algorithms,Java,Python,C++**
+- 💬 Ask me about **MERN Stack, Machine Learning Algorithms,Java,Python,C++**
 
 - 📫 How to reach me **codingshubham.in@gmail.com**
 
@@ -36,9 +36,9 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
