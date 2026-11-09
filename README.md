@@ -1,4 +1,6 @@
-![MasterHead]\(Neon AI Backend Developer Journey.gif)\
+![MasterHead](./Neon%20AI%20Backend%20Developer%20Journey.gif)
+
+# 🏄‍♂️ Shubham Das
 # 🏄‍♂️ Shubham Das
 
 **`Innovator (AI & Data Science Entusiast|MERN Stack developer | Passionate Java & Python Backend Developer)`**
