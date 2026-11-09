@@ -1,4 +1,4 @@
-![MasterHead](https://d2f8l4t0zpiyim.cloudfront.net/000_clients/664516/page/664516cjJgh69K.gif)
+![MasterHead](Neon AI Backend Developer Journey.gif)
 # 🏄‍♂️ Shubham Das
 
 **`Innovator (AI & Data Science Entusiast|MERN Stack developer | Passionate Java & Python Backend Developer)`**
